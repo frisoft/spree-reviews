@@ -1,0 +1,35 @@
+es:
+  write_your_own_review: Escriba su opinión  
+  review_management: Gestión de los comentarios
+  review_management_description: Administrar los comentarios 
+  back_reviews: Volver a los comentarios
+  are_you_sure_review: ¿Está seguro de eliminar revisión?
+  info_approve_review: Revisión aprobado
+  error_approve_review: Error en la aprobación de revisión
+  approve: Aprobar
+  leave_us_a_review: Por favor, deje un comentario y una calificación
+  review_successfully_sumbitted: Revisión fue presentado con éxito
+  rating: Valoración
+  submit_your_review: Enviar tu opinión
+  review_content: Contenido
+  review_title: Título
+  reviews:
+    review_settings: Revisar la configuración
+    manage_review_settings: Controlar la visualización de comentarios
+    preview_size: Tamaño de los fragmentos de revisión
+    include_unapproved: Include unapproved reviews in listings
+  avarage_rating: Promedio de puntuaciones de usuario
+  review_by: Da
+  review_from: de
+  review_on: "en"
+  product_review_submission: "Envío revisión del producto"
+  review_your_name: "Su nombre"
+  review_your_location: "Su ubicación"
+  review_rating: Valoración
+  review_title: "Título de la revisión"
+  review_text: "Texto de la revisión"
+  review_submit: "Envía tu reseña"
+  reviews_count: "{{count}} comentarios"
+
+
+  

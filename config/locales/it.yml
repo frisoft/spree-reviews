@@ -1,0 +1,33 @@
+it:
+  write_your_own_review: Scrivi la tua recensione
+  review_management: Amminstrazione recensione
+  review_management_description: Amministra le recensioni inserite dagli utenti
+  back_reviews: Torna alle recensioni
+  are_you_sure_review: Sei sicuro di voler eliminare la recensione?
+  info_approve_review: Recensione approvata
+  error_approve_review: Errore approvando la recensione
+  approve: Approva
+  leave_us_a_review: Per favore, lasciaci una recensione e un voto per il prodotto
+  review_successfully_sumbitted: La recensione è stata inviata correttamente
+  rating: voto
+  submit_your_review: Invia la recensione
+  review_content: Contenuto
+  review_title: Titolo
+  reviews:
+    review_settings: Impostazioni recensione
+    manage_review_settings: Amminista le impostazioni della recensione
+    preview_size: Dimensione dei frammento di recensioni
+    include_unapproved: Includi nella lista le recensioni non approvate
+  avarage_rating: Voto medio
+  review_by: Di
+  review_from: da
+  review_on: "il"
+  product_review_submission: "Invio recensione prodotto"
+  review_your_name: "Il tuo nome"
+  review_your_location: "Dove ti trovi"
+  review_rating: Voto
+  review_title: "Titolo recensione"
+  review_text: "Testo recensione"
+  review_submit: "Invia la tua recensione"
+  reviews_count: "{{count}} recensioni"  
+

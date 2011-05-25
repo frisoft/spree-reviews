@@ -1,0 +1,33 @@
+de:
+  write_your_own_review: "Schreiben Sie Ihren eigenen Beitrag"
+  review_management: "Review Management"
+  review_management_description: Verwalten der Benutzer-Beiträge eingereicht
+  back_reviews: Zurück zu den Bewertungen
+  are_you_sure_review: Sind Sie sicher auf die Rezension löschen?
+  info_approve_review: Review genehmigt
+  error_approve_review: Fehler bei der Genehmigung Beitrag
+  approve: Genehmigen
+  leave_us_a_review: Bitte lassen Sie uns eine Überprüfung und eine Bewertung
+  review_successfully_sumbitted: Revision wurde erfolgreich übermittelt
+  rating: Bewertung
+  submit_your_review: Senden Sie Ihren Beitrag
+  review_content: Inhalt
+  review_title: Titel
+  reviews:
+    review_settings: Einstellungen überprüfen
+    manage_review_settings: Steuern der Anzeige von Kommentaren
+    preview_size: Größe der Überprüfung Schnipsel
+    include_unapproved: Include unapproved reviews in listings
+  avarage_rating: Durchschnittliche Kundenbewertung
+  review_by: Mit
+  review_from: Von
+  review_on: "on"
+  product_review_submission: "Testbericht Vorlage"
+  review_your_name: "Ihr Name"
+  review_your_location: "Ihr Standort"
+  review_rating: Bewertung
+  review_title: "Review Titel"
+  review_text: "Review Text"
+  review_submit: "Senden Sie Ihren Beitrag"
+  reviews_count: "{{count}} Bewertungen"  
+  

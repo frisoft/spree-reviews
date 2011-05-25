@@ -1,0 +1,36 @@
+fr:
+  write_your_own_review: "Ecrivez un commentaire"
+  review_management: "Gestion des commentaires"
+  review_management_description: "Gestion des commentaires envoyés par les utilisateurs"
+  back_reviews: "Revenir aux commentaires"
+  are_you_sure_review: "Êtes-vous sûr de vouloir supprimer ce commentaire ?"
+  info_approve_review: "Commentaire approuvé"
+  error_approve_review: "Erreur lors de la validation du commentaire"
+  approve: "Approuvé"
+  leave_us_a_review: "S'il vous plaît laissez-nous un avis et une note"
+  review_successfully_sumbitted: "Avis soumis à modération"
+  rating: "Note"
+  submit_your_review: "Valider votre commentaire"
+  review_content: Contenu
+  review_title: Titre
+  reviews:
+    review_settings: Vérifier les paramètres
+    manage_review_settings: Contrôler l'affichage des commentaires
+    preview_size: Taille des fragments de révision
+    include_unapproved: Include unapproved reviews in listings
+  avarage_rating: Note moyenne des clients
+  review_by: Par
+  review_from: De
+  review_on: "on"
+  product_review_submission: "D'examen des présentations du produit"
+  review_your_name: "Votre nom"
+  review_your_localtion: "Votre position"
+  review_rating: évaluation
+  review_title: "Titre de la revue"
+  review_text: "Texte de la revue"
+  review_submit: "Proposez votre avis"
+  reviews_count: "{{count}} commentaires"  
+
+  
+  
+  

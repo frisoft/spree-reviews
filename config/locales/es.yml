@@ -17,7 +17,7 @@ es:
     review_settings: Revisar la configuración
     manage_review_settings: Controlar la visualización de comentarios
     preview_size: Tamaño de los fragmentos de revisión
-    include_unapproved: Include unapproved reviews in listings
+    include_unapproved: Incluir en las listas de aprobados comentarios
   avarage_rating: Promedio de puntuaciones de usuario
   review_by: Da
   review_from: de

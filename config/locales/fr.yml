@@ -17,7 +17,7 @@ fr:
     review_settings: Vérifier les paramètres
     manage_review_settings: Contrôler l'affichage des commentaires
     preview_size: Taille des fragments de révision
-    include_unapproved: Include unapproved reviews in listings
+    include_unapproved: Inclure les commentaires non autorisés dans les annonces
   avarage_rating: Note moyenne des clients
   review_by: Par
   review_from: De
